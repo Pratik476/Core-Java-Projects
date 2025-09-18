@@ -5,11 +5,11 @@ A collection of beginner-friendly **Core Java console-based projects** to practi
 ---
 
 ## 📌 Projects Included
-- 🏧 **ATM Machine**
-- ❌⭕ **Tic Tac Toe Game**
-[🎟️ Movie Ticket Booking System](./MovieTicketBooking)
+- 🏧 ATM Machine
+- ❌⭕ Tic Tac Toe Game
+- 🎟️ [Movie Ticket Booking System](./MovieTicketBooking)
+- 🛒 Online Shopping System
 
-- 🛒 **Online Shopping System**
 
 ---
 
