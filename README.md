@@ -5,7 +5,7 @@ A collection of beginner-friendly **Core Java console-based projects** to practi
 ---
 
 ## 📌 Projects Included
-- 🏧 ATM Machine
+- 🏧 [ATM Machine](./AtmMachineProject)
 - ❌⭕ Tic Tac Toe Game
 - 🎟️ [Movie Ticket Booking System](./MovieTicketBooking)
 - 🛒 Online Shopping System
