@@ -1,4 +1,4 @@
-# 🎮 Tic Tac Toe Game (Java Console)
+# 🎮 Tik Tac Toe Game (Java Console)
 
 A simple **3x3 Tic Tac Toe** game built in Java, played in the console by two players.
 
