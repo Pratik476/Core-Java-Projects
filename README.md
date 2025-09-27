@@ -8,7 +8,6 @@ A collection of beginner-friendly **Core Java console-based projects** to practi
 - 🏧 [ATM Machine](./AtmMachineProject)
 - ❌⭕ [Tic Tac Toe Game](./TicTacToeGame)
 - 🎟️ [Movie Ticket Booking System](./MovieTicketBooking)
-- 🛒 Online Shopping System
 
 
 ---
